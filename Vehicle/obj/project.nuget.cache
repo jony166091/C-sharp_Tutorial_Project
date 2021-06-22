@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yH7+ZFOTjNOsA3RMW4eCZuw5yTQP42UQ7wvVZV3aktd93sHyL3F4L4b8E65wKVpoBqToH1Uv4cBi3dbSdIm9jw==",
+  "success": true,
+  "projectFilePath": "E:\\The Hidden CobRa\\Programming World\\Programming Language\\C# Programming\\Tonmoy Ghosh\\C#\\Vehicle\\Vehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\israf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
